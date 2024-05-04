@@ -1,0 +1,13 @@
+#valor1{
+    display:block;
+    margin-top:2px;
+  }
+  #valor2{
+    display:block;
+    margin-top:2px;
+    margin-bottom:10px;
+  }
+  #resultado, .resultado{
+    display:block;
+    margin:4px;
+  }
